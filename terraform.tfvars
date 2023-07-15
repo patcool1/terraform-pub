@@ -1,0 +1,5 @@
+region = "us-east-1"
+ami = "ami-06ca3ca175f37dd66"
+Name = "patcool"
+Team = "DevOps"
+instance_type = "t3.micro"
